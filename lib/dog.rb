@@ -41,9 +41,9 @@ class Dog
   end
 
   def self.create(name:, breed:)
-    id = self.id 
-    name = self.name 
-    breed = self.breed 
+    id = self.id
+    name = self.name
+    breed = self.breed
     self
   end
   
