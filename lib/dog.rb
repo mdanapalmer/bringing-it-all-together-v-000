@@ -46,6 +46,6 @@ class Dog
     breed = self.breed
     self
   end
-  
+
 
 end
