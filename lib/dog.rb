@@ -44,6 +44,7 @@ class Dog
     id = self.id
     name = self.name
     breed = self.breed
+    self.save
     self
   end
 
